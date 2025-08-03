@@ -8,4 +8,5 @@ Bounding boxes, class labels, and confidence scores
 
 Works with YOLOv8 pretrained models (n, s, m, l, x)
 
+
 Simple and fast Python implementation
