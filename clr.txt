@@ -1,0 +1,11 @@
+Real-Time Object Detection with YOLOv8
+This project demonstrates real-time object detection using the YOLOv8 (You Only Look Once) deep learning model and OpenCV in Python. It uses the lightweight and accurate ultralytics library for fast inference and easy integration.
+
+Features
+Real-time object detection from webcam or video file
+
+Bounding boxes, class labels, and confidence scores
+
+Works with YOLOv8 pretrained models (n, s, m, l, x)
+
+Simple and fast Python implementation
